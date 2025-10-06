@@ -14,7 +14,7 @@
 
   <h3 align="center">PrepGo: A job interview preparation platform powered by Vapi AI Voice agents</h3>
 
-   
+   </div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
